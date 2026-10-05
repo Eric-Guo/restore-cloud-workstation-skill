@@ -1,0 +1,4 @@
+interface:
+  display_name: Restore Cloud Workstation
+  short_description: Recover a cloud host with safe, scoped checks
+  default_prompt: Use $restore-cloud-workstation to recover the tools needed for this task after a cloud computer reset.
